@@ -42,3 +42,6 @@ n/a
 n/a
 
 https://note-taker-app-ucb.herokuapp.com/
+
+
+![note taker app](https://user-images.githubusercontent.com/112132288/205794042-c2223a6c-4a23-460a-a6e9-732044f0663e.png)
